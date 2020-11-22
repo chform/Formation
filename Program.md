@@ -1,12 +1,12 @@
 # Programme de formation
 
-1. Présentations des outils disponnibles (teams, discord)
+1. Présentations des outils disponnibles (teams, discord) 1-2h maxi
 
-2. Initiation a git (au tout début pour facilitation du télétravail)
+2. Initiation a git (au tout début pour facilitation du télétravail) 1journée
 
-3. Prise de connaissance du REAC et du RC
+3. Prise de connaissance du REAC et du RC 0.5Journée
 
-4. Sensibilisation au développement durable
+4. Sensibilisation au développement durable 3J (1j recherche, 1j réalisation diapo, 3j présentation) [travail en groupe]
 
 5. Debut de cours HTML/CSS
     - Découverte de l'HTML
