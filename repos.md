@@ -21,7 +21,7 @@ Leclercq Pierre
 
 Peugnet Sebastien https://github.com/LordLoopinG/TutoGit
 
-Schepens Maxence
+Schepens Maxence https://github.com/Aruhtobi/TutoGit.git
 
 Vandromme Marine
-https://github.com/mrnvde
+
