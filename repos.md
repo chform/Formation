@@ -5,7 +5,7 @@ Allary Nathan : https://github.com/LSouryu
 
 Bougard Maxime : https://github.com/MasquimeRoronoa
 
-Bouillet Lise
+Bouillet Lise : https://github.com/lise6262/tutogit.git
 
 Chouky Abdelouhad
 
