@@ -11,7 +11,7 @@ Chouky Abdelouhad
 
 Drolez Jordan https://github.com/Zenkishin/Tutogit
 
-Ducrocq Mathieu
+Ducrocq Mathieu https://github.com/Dralexian/Exercices.git
 
 Lasson Damien    https://github.com/damecle
 
