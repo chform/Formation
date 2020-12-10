@@ -9,7 +9,7 @@ Bouillet Lise
 
 Chouky Abdelouhad
 
-Drollez Jordan
+Drolez Jordan https://github.com/Zenkishin/Tutogit
 
 Ducrocq Mathieu
 
