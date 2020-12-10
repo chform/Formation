@@ -9,7 +9,7 @@ Bouillet Lise : https://github.com/lise6262/tutogit.git
 
 Chouky Abdelouhad
 
-Drollez Jordan
+Drolez Jordan https://github.com/Zenkishin/Tutogit
 
 Ducrocq Mathieu
 
