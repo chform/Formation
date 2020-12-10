@@ -17,7 +17,7 @@ Lasson Damien
 
 Leborgne Bernard  https://github.com/NemesisMKII
 
-Leclercq Pierre
+Leclercq Pierre https://github.com/Shawigami/Exercice.git
 
 Peugnet Sebastien https://github.com/LordLoopinG/TutoGit
 
