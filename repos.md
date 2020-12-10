@@ -3,7 +3,7 @@ Liste des répertoire des stagiaires IDFOrmation DWWM-Groupe2
 
 Allary Nathan
 
-Bougard Maxime
+Bougard Maxime : https://github.com/MasquimeRoronoa
 
 Bouillet Lise
 
