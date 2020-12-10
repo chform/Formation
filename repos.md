@@ -19,7 +19,7 @@ Leborgne Bernard
 
 Leclercq Pierre
 
-Peugnet Sebastien
+Peugnet Sebastien https://github.com/LordLoopinG/TutoGit
 
 Schepens Maxence
 
