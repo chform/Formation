@@ -7,7 +7,7 @@ Bougard Maxime : https://github.com/MasquimeRoronoa
 
 Bouillet Lise : https://github.com/lise6262/
 
-Chouky Abdelouhad
+HAVRET Cyril https://github.com/chform/travail
 
 Drolez Jordan https://github.com/Zenkishin/
 
